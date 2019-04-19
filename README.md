@@ -6,5 +6,6 @@ In early 2019, I lost my Yubikey with my master GPG key, and subkeys used for SS
 
 I was smart, and backed up the keys to offline storage, so I was able to re-establish them on a new yubikey. However, proving identity is apparently not able to be done via GPG validation.
 
+### The file keybase-proof.md will provide the cryptographic chain of custody that can proof my identity.
 
 ### It's my hope that this repo can prove cryptographically that I really am wedtm.
